@@ -1,3 +1,10 @@
+<!--
+###############################
+* CREATED BY NetSecNow        *
+* xNetSecNowx                 *
+###############################
+-->
+
 <?php
 if (isset($_POST['ajax'])) {
 $to = $_POST['to'];
