@@ -141,7 +141,7 @@ exit();
 	</div><br>
 	<div>
 		<textarea name="msg" id="msg" placeholder="Message Text or HTML code"></textarea>
-		<textarea name="to" id="to" placeholder="Mailist"></textarea>
+		<textarea name="to" id="to" placeholder="Mail list"></textarea>
 	</div>
 	<div><br><br>
 		<button id="btn" onclick="return false">SEND</button>
